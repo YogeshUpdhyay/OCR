@@ -1,2 +1,4 @@
 venv
 sample_grayscale.jpg
+sample_binary.jpg
+sample_inverse_binary.jpg
