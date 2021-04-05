@@ -2,3 +2,8 @@ venv
 sample_grayscale.jpg
 sample_binary.jpg
 sample_inverse_binary.jpg
+sample_cropped.jpg
+horizontal.jpg
+vertical.jpg
+img_vh.jpg
+output.xlsx
