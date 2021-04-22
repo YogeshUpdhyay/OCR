@@ -1,3 +1,3 @@
 
-def run():
-    pass
+def run(path):
+    return True
